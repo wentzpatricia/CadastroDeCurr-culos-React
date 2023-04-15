@@ -1,0 +1,15 @@
+export const colorsVariables = {
+  white: '#f2f2f2',
+  darkBlue: '#171940',
+  lightBlue: '#3c8ce7',
+  greyishBlue: '#597ca9',
+  blue: '#74a2dc',
+  red: '#a00000',
+  green: ' #006400',
+  boxShadow: '2px 2px 2px 2px rgba(0, 0, 0, 0.2)',
+  borderFormResume: '1px solid #597ca9',
+  borderFormResumeFocus: '2px solid #597ca9',
+  borderSelectFocus: '2px solid #171940',
+  borderBottomWhite: '1px solid #f2f2f2',
+  backgroundGradient: 'linear-gradient(135deg, #3c8ce7 10%, #00eaff 100%)',
+};
